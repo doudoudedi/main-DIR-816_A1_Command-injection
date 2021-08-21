@@ -63,7 +63,7 @@ data={
 	"select":"s0",
 	"hiddenpass":"192.168.33.9",
 	"submit.htm?userconfig.htm":"Send",
-	"tokenid":"35005211"#Packet capture analysis
+	#"tokenid":"35005211"#Packet capture analysis
 }
 proxies={
 'http':'127.0.0.1:8080',
