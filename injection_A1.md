@@ -2,7 +2,7 @@ Vender ：D-Link
 
 Firmware version:1.10 B05
 
-Exploit Author: http://www.dlink.com.cn/
+Exploit Author: doudoudedi233@gmail.com
 
 Vendor Homepage: http://www.dlink.com.cn/
 
