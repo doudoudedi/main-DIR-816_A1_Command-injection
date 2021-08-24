@@ -8,7 +8,7 @@
 
 ​	If the user can configure the router, it may cause unconditional command execution If the user can configure the router, it may cause unconditional command execution.
 
-
+漏洞厂商已经承认https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10240
 ##### POC&&EXP
 
 
